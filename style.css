@@ -1,0 +1,21 @@
+#heading{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 5px;
+    padding-top: 15px;
+}
+
+#heading2{
+    text-align: center;
+}
+
+.button{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
